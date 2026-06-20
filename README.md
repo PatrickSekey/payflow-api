@@ -36,4 +36,3 @@ Spring Boot's auto-configuration automatically configures beans based on the dep
 ### Production-Ready Defaults
 Spring Boot provides production-ready defaults including health checks, configurable logging, global exception handling, externalized property management, and database connection pooling.
 
-## Project Structure
