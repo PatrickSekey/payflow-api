@@ -1,0 +1,13 @@
+# IntelliJ IDEA 
+.idea/ 
+*.iml 
+.gradle/ 
+build/ 
+target/ 
+*.class 
+*.log 
+.DS_Store 
+.vscode/ 
+.mvn/ 
+mvnw 
+mvnw.cmd 
